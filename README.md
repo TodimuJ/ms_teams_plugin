@@ -12,7 +12,9 @@ Tabs are Teams-aware webpages embedded in Microsoft Teams. A channel/group tab d
 In the project directory, execute:
 
 `npm install`
-
+`npm init`
+`npm i axios`
+`npm i html-to-react`
 `npm start`
 
 
